@@ -2,8 +2,8 @@
 <!--        HEADER SECTION         -->
 <!-- ============================== -->
 
-<h1 align="center">Hola 👋, soy Brei</h1>
-<h3 align="center">Desarrollador en formación construyendo disciplina y software real</h3>
+<h1 align="center">Hola, soy Breiner</h1>
+<h3 align="center">Desarrollador en formación</h3>
 
 <p align="center">
   💻 Backend en crecimiento | 🗄️ Bases de datos | 🚀 Proyectos reales
@@ -23,7 +23,6 @@
 
 ## 🚀 Actualmente trabajando en
 
-- 🏢 Sistema de gestión empresarial (Proyecto final)
 - 🌐 Aplicaciones web con PHP y Django
 - ⚙️ Mejora constante en estructuras de datos y lógica
 - 🗄️ Diseño y modelado de bases de datos relacionales
@@ -54,32 +53,15 @@
 
 ---
 
-## 📊 Estadísticas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🎯 Objetivo
-
-Convertirme en un desarrollador backend sólido,
-capaz de diseñar sistemas escalables, estructurados y eficientes.
-
----
 
 ## 📌 Filosofía
 
-> Disciplina antes que motivación.  
-> Progreso diario, aunque sea pequeño.
+> Progresando como desarrollador y persona.
+> MAI
 
 ---
 
 <p align="center">
-  Gracias por visitar mi perfil 🚀
+  Gracias por visitar mi perfil
 </p>
