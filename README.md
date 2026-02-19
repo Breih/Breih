@@ -1,40 +1,85 @@
-#  Hola, soy Brei
+<!-- ============================== -->
+<!--        HEADER SECTION         -->
+<!-- ============================== -->
 
- Estudiante de Análisis y Desarrollo de Software  
- Enfocado en convertirme en un desarrollador sólido y disciplinado  
- Construyendo proyectos reales mientras trabajo en mi mejor versión  
+<h1 align="center">Hola 👋, soy Brei</h1>
+<h3 align="center">Desarrollador en formación construyendo disciplina y software real</h3>
 
----
-
-##  Actualmente
-
--  Desarrollando proyectos con PHP, Django y Vue
--  Trabajando con bases de datos relacionales (MySQL)
--  Mejorando mi lógica, estructura y arquitectura de software
+<p align="center">
+  💻 Backend en crecimiento | 🗄️ Bases de datos | 🚀 Proyectos reales
+</p>
 
 ---
 
-##  Tecnologías
+## 🧠 Sobre mí
 
-- Frontend: HTML, CSS, JavaScript, Vue
-- Backend: PHP, Django
-- Bases de datos: MySQL
-- Control de versiones: Git & GitHub
-
----
-
-##  Objetivo
-
-Convertirme en un desarrollador que no solo escriba código,
-sino que construya soluciones reales y escalables.
+🎓 Estudiante de Análisis y Desarrollo de Software  
+🔥 Enfocado en mejorar mi lógica y estructura de código  
+📈 Construyendo proyectos reales mientras trabajo en mi disciplina  
+🧩 Interesado en arquitectura backend y diseño de bases de datos  
+🎵 Amante del aprendizaje, la música y la mejora continua  
 
 ---
 
-##  Extra
+## 🚀 Actualmente trabajando en
 
-Amante del aprendizaje, la música y la mejora continua.  
-Creo en el progreso diario, aunque sea pequeño.
+- 🏢 Sistema de gestión empresarial (Proyecto final)
+- 🌐 Aplicaciones web con PHP y Django
+- ⚙️ Mejora constante en estructuras de datos y lógica
+- 🗄️ Diseño y modelado de bases de datos relacionales
 
 ---
 
-> "Progresando como desarrollador y persona"
+## 🛠️ Tecnologías
+
+### 💻 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=php,django,python" />
+</p>
+
+### 🗄️ Base de Datos
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 🔧 Herramientas
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+## 📊 Estadísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🎯 Objetivo
+
+Convertirme en un desarrollador backend sólido,
+capaz de diseñar sistemas escalables, estructurados y eficientes.
+
+---
+
+## 📌 Filosofía
+
+> Disciplina antes que motivación.  
+> Progreso diario, aunque sea pequeño.
+
+---
+
+<p align="center">
+  Gracias por visitar mi perfil 🚀
+</p>
